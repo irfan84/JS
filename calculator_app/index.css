@@ -1,0 +1,42 @@
+
+* {
+    font-family:  Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+
+.container {
+    width: 320px;
+    margin: 120px auto;
+    background-color: #8F00FF;
+}
+
+table {
+    width: 100%;
+    border-color: #8F00FF;
+}
+
+td {
+    width: 25%;
+}
+
+#resultLabel {
+    height: 80px;
+    font-size: 40px;
+    vertical-align: bottom;
+    text-align: right;
+    padding-right: 16px;
+    background-color: #555;
+}
+
+button {
+    width: 100%;
+    height: 70px;
+    font-size: 24px;
+    background-color: #8F00FF;
+    border: none;
+}
